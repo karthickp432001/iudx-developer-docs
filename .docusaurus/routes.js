@@ -105,7 +105,7 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','dc4'),
+    component: ComponentCreator('/docs/next','eb4'),
     routes: [
       {
         path: '/docs/next/client-credentials',
@@ -180,158 +180,158 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Deployment Overview',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Deployment Overview','ce4'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Deployment Overview',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Deployment Overview','199'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Centralised-Nginx',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Centralised-Nginx','d85'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Centralised Nginx',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Centralised Nginx','b6c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Monitoring-stack',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Monitoring-stack','a52'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Monitoring stack',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Monitoring stack','59a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics','130'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics','a0e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network','22d'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network','6c3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Resource planning',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Resource planning','89d'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Resource planning',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Resource planning','fe1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/Introduction',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/Introduction','333'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/Introduction',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/Introduction','a81'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/AAA Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/AAA Server','baa'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/AAA Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/AAA Server','e4f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ACL-APD',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ACL-APD','67a'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD','293'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Advance Monitoring Stack',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Advance Monitoring Stack','636'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Advance Monitoring Stack',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Advance Monitoring Stack','d37'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/API Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/API Server','5a7'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/API Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/API Server','78e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Auditing Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Auditing Server','a71'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Auditing Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Auditing Server','9cf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Catalogue-Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Catalogue-Server','4db'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Catalogue-Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Catalogue-Server','9a3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Data- Ingestion Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Data- Ingestion Server','298'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server','944'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ELK stack',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ELK stack','0b0'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ELK stack',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ELK stack','979'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/File Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/File Server','32f'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/File Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/File Server','429'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Immudb',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Immudb','b1f'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Immudb',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Immudb','3ee'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Initiating the Deployment',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Initiating the Deployment','a44'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Initiating the Deployment',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Initiating the Deployment','5a0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Keycloak',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Keycloak','f03'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Keycloak',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Keycloak','77f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline','45d'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline','538'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/PostgreSQL',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/PostgreSQL','986'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/PostgreSQL',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/PostgreSQL','276'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/RabbitMQ',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/RabbitMQ','512'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/RabbitMQ',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/RabbitMQ','528'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Redis',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Redis','b2c'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Redis',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Redis','52a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Resource-Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Resource-Server','539'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server','659'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Zookeeper',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Zookeeper','5bf'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Zookeeper',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Zookeeper','dbc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm-Based Deployment/prerequisites',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm-Based Deployment/prerequisites','07a'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/prerequisites',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/prerequisites','59c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

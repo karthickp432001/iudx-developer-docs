@@ -128,7 +128,7 @@
   "/search-f46": {
     "component": "component---home-srinivas-iudx-developer-docs-node-modules-docusaurus-theme-search-typesense-src-theme-search-page-index-js-445-31a"
   },
-  "/docs/next-dc4": {
+  "/docs/next-eb4": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-next-935-7db"
   },
@@ -180,109 +180,109 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-delegate-delegate-register-resource-server-2-a-3-76f"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Deployment Overview-ce4": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Deployment Overview-199": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-deployment-overview-47-f-d2d"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-deployment-overviewac-0-812"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Centralised-Nginx-d85": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Centralised Nginx-b6c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-centralised-nginx-27-b-2a8"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-centralised-nginx-4-bb-cb7"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Monitoring-stack-a52": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Monitoring stack-59a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-monitoring-stackeae-7be"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-monitoring-stack-3-c-0-4be"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics-130": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Addons/Provisioning Node-exporter and docker daemon metrics-a0e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-provisioning-node-exporter-and-docker-daemon-metrics-83-d-ffa"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-addons-provisioning-node-exporter-and-docker-daemon-metrics-10-a-612"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network-22d": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Provisioning Docker Swarm with overlay network-6c3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-provisioning-docker-swarm-with-overlay-networke-78-cec"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-provisioning-docker-swarm-with-overlay-networkcb-7-a36"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Infrastructure Provisioning/Resource planning-89d": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Infrastructure Provisioning/Resource planning-fe1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-resource-planning-94-b-13a"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-infrastructure-provisioning-resource-planninga-31-b2a"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/Introduction-333": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/Introduction-a81": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-introduction-89-f-cc7"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-introduction-065-29b"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/AAA Server-baa": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/AAA Server-e4f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-aaa-server-397-488"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-aaa-server-88-d-ace"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ACL-APD-67a": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD-293": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-acl-apd-8-a-3-e43"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-acl-apd-245-b31"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Advance Monitoring Stack-636": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Advance Monitoring Stack-d37": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-advance-monitoring-stack-93-a-cdd"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-advance-monitoring-stackbe-1-851"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/API Server-5a7": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/API Server-78e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-api-server-56-b-e8a"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-api-serverd-4-a-71b"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Auditing Server-a71": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Auditing Server-9cf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-auditing-server-4-cf-86d"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-auditing-server-9-c-8-3d4"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Catalogue-Server-4db": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Catalogue-Server-9a3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-catalogue-serverf-2-d-b30"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-catalogue-serverb-32-624"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Data- Ingestion Server-298": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server-944": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-data-ingestion-server-78-e-f7d"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-data-ingestion-server-831-54f"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/ELK stack-0b0": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ELK stack-979": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-elk-stack-3-ad-eb0"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-elk-stackcc-7-a4b"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/File Server-32f": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/File Server-429": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-file-serverc-5-c-8d2"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-file-server-8-a-7-63e"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Immudb-b1f": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Immudb-3ee": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-immudb-896-b23"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-immudb-0-f-4-75d"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Initiating the Deployment-a44": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Initiating the Deployment-5a0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-initiating-the-deploymenta-0-a-acc"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-initiating-the-deploymentb-91-94b"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Keycloak-f03": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Keycloak-77f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-keycloakc-1-e-c16"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-keycloak-216-3ed"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline-45d": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline-538": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-latest-ingestion-pipeline-086-51c"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-latest-ingestion-pipelineee-3-569"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/PostgreSQL-986": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/PostgreSQL-276": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-postgre-sq-ld-20-133"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-postgre-sql-1-ae-686"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/RabbitMQ-512": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/RabbitMQ-528": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-rabbit-m-qce-0-22c"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-rabbit-mq-060-20c"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Redis-b2c": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Redis-52a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-redise-4-e-782"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-redis-47-a-1af"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Resource-Server-539": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server-659": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-resource-server-707-fe3"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-resource-servere-12-760"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/IUDX Component Installation/Zookeeper-5bf": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Zookeeper-dbc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-zookeeperd-57-01b"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-zookeeper-212-265"
   },
-  "/docs/next/Deployment/Docker Swarm-Based Deployment/prerequisites-07a": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/prerequisites-59c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-prerequisites-468-ea9"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-prerequisites-95-a-d47"
   },
   "/docs/next/Deployment/Introduction-757": {
     "component": "component---theme-doc-item-178-a40",

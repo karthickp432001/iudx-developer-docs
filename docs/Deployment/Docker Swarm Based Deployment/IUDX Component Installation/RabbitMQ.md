@@ -128,6 +128,10 @@ Folder structure for RabbitMQ secrets is as follows
 
     Use this command to display information about the services in the 'databroker' stack:
 
+    ```
+    docker stack ps databroker
+    ```
+
         
     | ID            | NAME                    | IMAGE                         | NODE         | DESIRED STATE | CURRENT STATE          | ERROR | PORTS                                                  |
     |---------------|-------------------------|-------------------------------|--------------|---------------|------------------------|-------|--------------------------------------------------------|
