@@ -248,8 +248,8 @@
                   },
                   {
                     "type": "link",
-                    "label": "Latest-Ingestion-Pipeline",
-                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline"
+                    "label": "Latest Ingestion Pipeline",
+                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline"
                   },
                   {
                     "type": "link",
@@ -263,8 +263,8 @@
                   },
                   {
                     "type": "link",
-                    "label": "ACL-APD",
-                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD"
+                    "label": "ACL -APD",
+                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD"
                   },
                   {
                     "type": "link",
@@ -273,8 +273,8 @@
                   },
                   {
                     "type": "link",
-                    "label": "Resource-Server",
-                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server"
+                    "label": "Resource Server",
+                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server"
                   },
                   {
                     "type": "link",
@@ -283,8 +283,8 @@
                   },
                   {
                     "type": "link",
-                    "label": "Data- Ingestion Server",
-                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+                    "label": "Data Ingestion Server",
+                    "href": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
                   },
                   {
                     "type": "link",

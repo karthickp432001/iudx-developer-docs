@@ -303,7 +303,7 @@ This is an alternative to steps 10 and 11 of the installation. Steps 10 and 11 a
         python3 rabbitmq.py
         ```
 
-    7. Test if the messages have reached the database and redis-latest queue. Log in to the RMQ management interface at **https://< rmq-domain-name :28041/ - goto - queues**
+    7. Test if the messages have reached the database and redis-latest queue. Log in to the RMQ management interface at **https://< rmq-domain-name :28041/** and under **Queues** section check for populated messages.
     .
 
  Refer **[here](https://github.com/datakaveri/iudx-deployment/tree/5.0.0/K8s-deployment/Charts/databroker/tests)** for more detailed information.

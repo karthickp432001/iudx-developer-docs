@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Data- Ingestion Server",
-    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+    "title": "Data Ingestion Server",
+    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
   }
 }

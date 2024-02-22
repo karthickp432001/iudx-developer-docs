@@ -111,8 +111,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
-              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
+              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -136,8 +136,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
-              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
+              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,8 +166,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
-              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
+              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -186,8 +186,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
-              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
+              "path": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
               "sidebar": "tutorialSidebar"
             },
             {

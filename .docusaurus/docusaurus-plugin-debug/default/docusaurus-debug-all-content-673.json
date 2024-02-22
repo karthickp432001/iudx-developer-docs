@@ -550,21 +550,21 @@
                 "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Auditing Server"
               },
               "next": {
-                "title": "ACL-APD",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD"
+                "title": "ACL -APD",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD"
               }
             },
             {
-              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
+              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
               "isDocsHomePage": false,
-              "title": "ACL-APD",
+              "title": "ACL -APD",
               "description": "Prerequisite:",
-              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD.md",
+              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD.md",
               "sourceDirName": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation",
-              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
-              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD",
-              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD.md",
+              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
+              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD",
+              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 12,
@@ -600,8 +600,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Data- Ingestion Server",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+                "title": "Data Ingestion Server",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
               }
             },
             {
@@ -627,8 +627,8 @@
                 "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Keycloak"
               },
               "next": {
-                "title": "Latest-Ingestion-Pipeline",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline"
+                "title": "Latest Ingestion Pipeline",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline"
               }
             },
             {
@@ -650,8 +650,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Latest-Ingestion-Pipeline",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline"
+                "title": "Latest Ingestion Pipeline",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline"
               },
               "next": {
                 "title": "AAA Server",
@@ -677,25 +677,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ACL-APD",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD"
+                "title": "ACL -APD",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD"
               },
               "next": {
-                "title": "Resource-Server",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server"
+                "title": "Resource Server",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server"
               }
             },
             {
-              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
+              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
               "isDocsHomePage": false,
-              "title": "Data- Ingestion Server",
+              "title": "Data Ingestion Server",
               "description": "Architecture",
-              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server.md",
+              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server.md",
               "sourceDirName": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation",
-              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
-              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server",
-              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server.md",
+              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
+              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server",
+              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 16,
@@ -758,12 +758,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Resource-Server",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server"
+                "title": "Resource Server",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server"
               },
               "next": {
-                "title": "Data- Ingestion Server",
-                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+                "title": "Data Ingestion Server",
+                "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
               }
             },
             {
@@ -848,16 +848,16 @@
               }
             },
             {
-              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
+              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
               "isDocsHomePage": false,
-              "title": "Latest-Ingestion-Pipeline",
+              "title": "Latest Ingestion Pipeline",
               "description": "Architecture",
-              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline.md",
+              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline.md",
               "sourceDirName": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation",
-              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
-              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline",
-              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline.md",
+              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
+              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline",
+              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -956,16 +956,16 @@
               }
             },
             {
-              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
-              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
+              "unversionedId": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
+              "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
               "isDocsHomePage": false,
-              "title": "Resource-Server",
+              "title": "Resource Server",
               "description": "Architecture",
-              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server.md",
+              "source": "@site/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server.md",
               "sourceDirName": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation",
-              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
-              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server",
-              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server.md",
+              "slug": "/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
+              "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server",
+              "editUrl": "https://github.com/datakaveri/iudx-developer-docs/blob/main/docs/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 14,
@@ -1432,7 +1432,7 @@
                           },
                           {
                             "type": "doc",
-                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline"
+                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline"
                           },
                           {
                             "type": "doc",
@@ -1444,7 +1444,7 @@
                           },
                           {
                             "type": "doc",
-                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD"
+                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD"
                           },
                           {
                             "type": "doc",
@@ -1452,7 +1452,7 @@
                           },
                           {
                             "type": "doc",
-                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server"
+                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server"
                           },
                           {
                             "type": "doc",
@@ -1460,7 +1460,7 @@
                           },
                           {
                             "type": "doc",
-                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+                            "id": "Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
                           },
                           {
                             "type": "doc",

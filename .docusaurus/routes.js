@@ -105,7 +105,7 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','eb4'),
+    component: ComponentCreator('/docs/next','e93'),
     routes: [
       {
         path: '/docs/next/client-credentials',
@@ -228,8 +228,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD','293'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD','1c7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -258,8 +258,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server','944'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server','b92'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -294,8 +294,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline','538'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline','f95'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -318,8 +318,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server',
-        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server','659'),
+        path: '/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server',
+        component: ComponentCreator('/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server','a07'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

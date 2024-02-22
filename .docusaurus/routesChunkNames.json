@@ -128,7 +128,7 @@
   "/search-f46": {
     "component": "component---home-srinivas-iudx-developer-docs-node-modules-docusaurus-theme-search-typesense-src-theme-search-page-index-js-445-31a"
   },
-  "/docs/next-eb4": {
+  "/docs/next-e93": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-next-935-7db"
   },
@@ -212,9 +212,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-aaa-server-88-d-ace"
   },
-  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL-APD-293": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ACL -APD-1c7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-acl-apd-245-b31"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-acl-apd-5-be-11d"
   },
   "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Advance Monitoring Stack-d37": {
     "component": "component---theme-doc-item-178-a40",
@@ -232,9 +232,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-catalogue-serverb-32-624"
   },
-  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server-944": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server-b92": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-data-ingestion-server-831-54f"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-data-ingestion-servera-01-ce5"
   },
   "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/ELK stack-979": {
     "component": "component---theme-doc-item-178-a40",
@@ -256,9 +256,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-keycloak-216-3ed"
   },
-  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest-Ingestion-Pipeline-538": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Latest Ingestion Pipeline-f95": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-latest-ingestion-pipelineee-3-569"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-latest-ingestion-pipeline-31-b-e3e"
   },
   "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/PostgreSQL-276": {
     "component": "component---theme-doc-item-178-a40",
@@ -272,9 +272,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-redis-47-a-1af"
   },
-  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server-659": {
+  "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server-a07": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-resource-servere-12-760"
+    "content": "content---docs-next-deployment-docker-swarm-based-deployment-iudx-component-installation-resource-server-6-fb-16a"
   },
   "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Zookeeper-dbc": {
     "component": "component---theme-doc-item-178-a40",

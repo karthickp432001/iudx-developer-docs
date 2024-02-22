@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Resource-Server",
-    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource-Server"
+    "title": "Resource Server",
+    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Resource Server"
   },
   "next": {
-    "title": "Data- Ingestion Server",
-    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data- Ingestion Server"
+    "title": "Data Ingestion Server",
+    "permalink": "/docs/next/Deployment/Docker Swarm Based Deployment/IUDX Component Installation/Data Ingestion Server"
   }
 }
