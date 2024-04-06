@@ -1,0 +1,128 @@
+PUT iudx__file-metadata
+{
+   "settings": {
+    "index.number_of_replicas": "1",
+    "index.unassigned.node_left.delayed_timeout": "10m",
+    "number_of_shards": 1,
+    "index.mapping.coerce": false
+
+  },
+  "mappings" : {
+      "properties": {
+        "empty": {
+          "type": "boolean"
+        },
+        "file-download-url": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "fileId": {
+          "type": "keyword",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "id": {
+          "type": "keyword",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "location": {
+          "type": "geo_shape"
+        },
+        "map": {
+          "properties": {
+            "file-download-url": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "fileId": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "id": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "location": {
+              "properties": {
+                "empty": {
+                  "type": "boolean"
+                },
+                "map": {
+                  "properties": {
+                    "coordinates": {
+                      "properties": {
+                        "empty": {
+                          "type": "boolean"
+                        },
+                        "list": {
+                          "type": "float"
+                        }
+                      }
+                    },
+                    "type": {
+                      "type": "text",
+                      "fields": {
+                        "keyword": {
+                          "type": "keyword",
+                          "ignore_above": 256
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "timeRange": {
+              "properties": {
+                "empty": {
+                  "type": "boolean"
+                },
+                "map": {
+                  "properties": {
+                    "gte": {
+                      "type": "date"
+                    },
+                    "lte": {
+                      "type": "date"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "timeRange": {
+          "type": "date_range"
+        }
+      }
+    }
+}
