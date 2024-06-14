@@ -175,7 +175,7 @@ The resource plan for various IUDX components and the corresponding vm  is prese
 **Create Storage Containers and S3 bucket**
     
 1. Create S3 bucket and IAM user for async query
-    1. Follow the document available [here](link_to_s3_bucket_creation_document) to create an AWS S3 bucket.
+    1. Follow the document available [here]**(https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview)** to create an AWS S3 bucket.
     2. Create IAM User with Policy
 
 Create an IAM user with the following policy:
